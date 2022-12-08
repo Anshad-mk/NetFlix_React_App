@@ -1,5 +1,5 @@
 .banner{
-    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/736dee100650681.5f0da29e3cce4.jpg');
+    /* background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/736dee100650681.5f0da29e3cce4.jpg'); */
     background-size: cover;
     height:500px;
     color: white;
@@ -31,6 +31,7 @@
     background-color: rgba(51,51,51, .5);
     cursor: pointer;
     margin-right: 1rem;
+    margin-top: 0.7rem;
 }
 
 .button:hover{
