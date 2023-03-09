@@ -12,7 +12,8 @@ function RowPost(props) {
             console.log(respon.data.results);
             if(respon.data.results.length!==0){
 
-              setyoutubeurl(respon.data.results[0])
+              setyoutubeurl(respon.data.results[0])   
+              //just commented for updation
 
             }
         })
